@@ -6,8 +6,7 @@ Computer Engineering graduate from San Jose State University. Interested in hard
 
 **Languages:** C, C++, Python, SystemVerilog, Assembly (RISC-V/MIPS/x86), SQL, Bash  
 **Embedded & Hardware:** Microcontrollers, Raspberry Pi, FPGA (Vivado/Quartus), RTOS  
-**Software:** Git, Linux, scikit-learn, NumPy, Pandas, PLY, Matplotlib, Flask, Docker
-
+**Software:** Linux, scikit-learn, NumPy, Pandas, PLY, Matplotlib
 ## Projects
 
 - **5-Stage Pipelined RISC-V CPU** — Full RV32I processor in SystemVerilog with forwarding, stall detection, and pipeline flushing
