@@ -6,7 +6,7 @@ Computer Engineering graduate from San Jose State University. Interested in hard
 
 **Languages:** C, C++, Python, SystemVerilog, Assembly (RISC-V/MIPS/x86), SQL, Bash  
 **Embedded & Hardware:** TI-MSP432, ESP32, Raspberry Pi, FPGA (Vivado/Quartus), TI-RTOS  
-**Software:** Flask, Docker, Git, Linux, scikit-learn, NumPy, Pandas, Matplotlib
+**Software:** Linux, scikit-learn, NumPy, Pandas, Matplotlib, Flask, Docker
 
 ## Projects
 
