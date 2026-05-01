@@ -1,6 +1,6 @@
 # Ryan Smith
 
-Computer Engineering graduate from San Jose State University (B.S., May 2025 — Cum Laude, 3.54 GPA). Interested in hardware design, embedded systems, IoT, and machine learning.
+Computer Engineering graduate from San Jose State University. Interested in hardware design, embedded systems, IoT, and machine learning.
 
 ## What I work with
 
