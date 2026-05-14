@@ -4,7 +4,7 @@ Computer Engineering graduate from San Jose State University. Interested in hard
 
 ## What I work with
 
-**Languages:** C, C++, Python, SystemVerilog, Assembly, SQL, Bash  
+**Languages:** C, C++, Python, Verilog/SystemVerilog, Assembly, SQL, Bash  
 **Embedded & Hardware:** Microcontrollers, Raspberry Pi, FPGA (Vivado/Quartus), RTOS, LTSpice
 **ML & Data:** scikit-learn, NumPy, Pandas, Matplotlib, Jupyter Notebook, Ollama
 **Miscellaneous Software/Tools:** Linux, Git/GitHub, VS/VS Code, Docker, Wireshark, Oracle VirtualBox, Windows Subsystem for Linux, Home Assistant
