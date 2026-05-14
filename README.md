@@ -14,5 +14,6 @@ Computer Engineering graduate from San Jose State University. Interested in hard
 - **C → RISC-V Compiler** — Python/PLY compiler implementing lexing, parsing, AST generation, and assembly code generation
 - **Healthcare IoT NIDS** — ML-based network intrusion detection (Random Forest, Gradient Boosting, MLP) on the CIC IoMT 2024 dataset
 - **SEED Labs** — Hands-on security labs covering buffer overflow, packet sniffing/spoofing, ARP poisoning, DNS attacks, XSS, CSRF, SQL injection, and cryptography
+- **Embedded Systems Labs** - Hands-on embedded programming labs using the TI-MSP432 Launchpad working with DriverLib and TI-RTOS.
 - **Group Scheduler** — Flask + SQLite backend with automatic shared free-time detection algorithm
 - **Routing Visualizer** — C++ graph tool implementing Dijkstra, Prim's, and Kruskal's algorithms with real-time SFML rendering
