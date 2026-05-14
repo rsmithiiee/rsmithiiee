@@ -2,7 +2,7 @@
 
 Computer Engineering graduate from San Jose State University. Interested in hardware design, embedded systems, IoT, and machine learning. Currently working through the [AI Hardware Engineer Roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap). 
 
-## What I work with
+## Tools & Technologies
 
 **Languages:** C, C++, Python, Verilog/SystemVerilog, Assembly, SQL, Bash  
 **Embedded & Hardware:** Microcontrollers, Raspberry Pi, FPGA (Vivado/Quartus), RTOS, LTSpice  
