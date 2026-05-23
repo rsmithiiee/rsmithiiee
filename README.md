@@ -17,7 +17,7 @@ Computer Engineering graduate from San Jose State University. Interested in hard
 - **[Healthcare IoT NIDS](https://github.com/rsmithiiee/IoMT-NIDS)** — ML-based network intrusion detection using scikit-learn on the CIC IoMT 2024 dataset
 - **[Embedded Systems Labs](https://github.com/rsmithiiee/Embedded-Systems-Labs)** - Hands-on embedded C programming labs using the TI-MSP432 Launchpad working with DriverLib and TI-RTOS.
 - **[SEED Labs](https://github.com/rsmithiiee/SEED-Labs)** — Hands-on security labs covering buffer overflow, packet sniffing/spoofing, ARP poisoning, DNS attacks, XSS, CSRF, SQL injection, and cryptography
-- **[C → RISC-V Compiler](https://github.com/rsmithiiee/C-to-RISC-V-Compiler)** — Python/PLY compiler implementing lexing, parsing, AST generation, and assembly code generation
+- **[C -> RISC-V Compiler](https://github.com/rsmithiiee/C-to-RISC-V-Compiler)** — Python/PLY compiler implementing lexing, parsing, AST generation, and assembly code generation
 - **[Routing Visualizer](https://github.com/Mchan2003/routing-visualizer)** — C++ graph tool implementing Dijkstra, Prim's, and Kruskal's algorithms with real-time SFML rendering
 - **[Group Scheduler](https://github.com/rsmithiiee/Group-Scheduler)** — Flask + SQLite backend with automatic shared free-time detection algorithm
 
