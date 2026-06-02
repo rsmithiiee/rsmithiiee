@@ -8,7 +8,7 @@ Computer Engineering graduate from San Jose State University. Interested in hard
 **Embedded & Hardware:** Microcontrollers, Raspberry Pi, FPGA (Vivado/Quartus), RTOS, LTSpice  
 **ML & Data:** scikit-learn, NumPy, Pandas, Matplotlib, Jupyter Notebook, Ollama  
 **Miscellaneous Software/Tools:** Linux, Git/GitHub, VS/VS Code, Docker, Wireshark, Oracle VirtualBox, Windows Subsystem for Linux, Home Assistant  
-**Lab Equipment:** Breadboarding, Oscilloscopes, Function Generators, Power Supplies  
+**Lab Equipment:** Breadboarding, Multimeters, Oscilloscopes, Function Generators, Power Supplies  
 
 ## Projects
 
