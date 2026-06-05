@@ -1,6 +1,6 @@
 # Ryan Smith
 
-Computer Engineering graduate from San Jose State University. Interested in hardware design, embedded systems, IoT, and machine learning. Currently working through the [AI Hardware Engineer Roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap). 
+Computer Engineering graduate from San Jose State University. Interested in hardware design, embedded systems, IoT, cybersecurity, and machine learning. Currently working through the [AI Hardware Engineer Roadmap](https://github.com/ai-hpc/ai-hardware-engineer-roadmap). 
 
 ## Tools & Technologies
 
